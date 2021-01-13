@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-12">
                 <p class="display-3">
-                    Vue crash course
+                    Todo List App
                 </p>
             </div>
         </div>
